@@ -1,4 +1,4 @@
-sample_app
+Ruby on Rails tutorial!
 ==========
 
-sample_app
+I'm currently learning Ruby on Rails and this is my repo of the tutorial.
